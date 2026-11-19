@@ -1,0 +1,50 @@
+{
+ "data": "2026-11-19",
+ "hora": "14:45",
+ "cupons": [
+  {
+   "tipo": "Todas as Lojas",
+   "valor": "R$30 OFF",
+   "detalhe": "Acima de R$299",
+   "oficial": false
+  },
+  {
+   "tipo": "Todas as Lojas",
+   "valor": "R$90 OFF",
+   "detalhe": "Acima de R$899",
+   "oficial": false
+  },
+  {
+   "tipo": "Cartinhas de Natal",
+   "valor": "50% OFF",
+   "detalhe": "Acima de R$10 · até R$50",
+   "oficial": false
+  },
+  {
+   "tipo": "Moda Oficial",
+   "valor": "R$20 OFF",
+   "detalhe": "Acima de R$199",
+   "oficial": true
+  },
+  {
+   "tipo": "Automóveis e Motocicletas",
+   "valor": "R$60 OFF",
+   "detalhe": "Acima de R$599",
+   "oficial": false
+  },
+  {
+   "tipo": "Automóveis e Motocicletas",
+   "valor": "R$90 OFF",
+   "detalhe": "Acima de R$799",
+   "oficial": false
+  }
+ ],
+ "frases": [
+  "R$30 OFF acima de R$299 (Todas as Lojas)",
+  "R$90 OFF acima de R$899 (Todas as Lojas)",
+  "50% OFF acima de R$10 · até R$50 (Cartinhas de Natal)",
+  "R$20 OFF acima de R$199 (Moda Oficial)",
+  "R$60 OFF acima de R$599 (Automóveis e Motocicletas)",
+  "R$90 OFF acima de R$799 (Automóveis e Motocicletas)"
+ ]
+}
