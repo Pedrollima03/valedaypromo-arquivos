@@ -1,0 +1,75 @@
+{
+ "data": "2026-11-20",
+ "data_texto": "20/11 às 10h",
+ "aviso": "🖤 BLACK FRIDAY: <b>ofertas novas</b> o dia todo nos grupos",
+ "fuso_agenda": "America/Manaus",
+ "agenda": [
+  {
+   "hora": "10:00",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-20-achados.jpg",
+   "tipo": "achados"
+  },
+  {
+   "hora": "12:00",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-20-p1.jpg",
+   "tipo": "produto 1"
+  },
+  {
+   "hora": "15:00",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-20-p2.jpg",
+   "tipo": "produto 2"
+  },
+  {
+   "hora": "18:00",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-20-p3.jpg",
+   "tipo": "produto 3"
+  },
+  {
+   "hora": "20:30",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-20-p4.jpg",
+   "tipo": "produto 4"
+  }
+ ],
+ "produtos": [
+  {
+   "n": 1,
+   "titulo": "Liquidificador Portátil Blender Elgin Daily Blend 350w 750ml 2 Copos Preto",
+   "preco": 144.99,
+   "preco_antigo": 499.97,
+   "desconto": 71,
+   "loja_nome": "Shopee",
+   "link": "https://s.shopee.com.br/1C6V9NziL",
+   "foto": "https://cf.shopee.com.br/file/br-11134207-820ma-msa71dbnloue12"
+  },
+  {
+   "n": 2,
+   "titulo": "Panela Elétrica de Arroz Itatiaia 8 Xícaras Inox 1,5L",
+   "preco": 159.49,
+   "preco_antigo": 498.41,
+   "desconto": 68,
+   "loja_nome": "Shopee",
+   "link": "https://s.shopee.com.br/20xAspGrXO",
+   "foto": "https://cf.shopee.com.br/file/br-11134207-820lh-muxminkmohdvad"
+  },
+  {
+   "n": 3,
+   "titulo": "Kit Clareador Facial Completo Hidrabene – Sabonete, Sérum Multicorretivo, Hidratante e…",
+   "preco": 99.9,
+   "preco_antigo": 237.86,
+   "desconto": 58,
+   "loja_nome": "Shopee",
+   "link": "https://s.shopee.com.br/3B98GyGkeV",
+   "foto": "https://cf.shopee.com.br/file/br-11134207-820ly-mvp3gmshfgu9a2"
+  },
+  {
+   "n": 4,
+   "titulo": "Sanduicheira Mondial S-20 Master Grill 750W Antiaderente",
+   "preco": 99.99,
+   "preco_antigo": 249.97,
+   "desconto": 60,
+   "loja_nome": "Shopee",
+   "link": "https://s.shopee.com.br/3g5OrtNiSi",
+   "foto": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcc84fsgtmnf93"
+  }
+ ]
+}
