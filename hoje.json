@@ -1,75 +1,75 @@
 {
- "data": "2026-11-20",
- "data_texto": "20/11 às 10h",
+ "data": "2026-11-21",
+ "data_texto": "21/11 às 07h",
  "aviso": "🖤 BLACK FRIDAY: <b>ofertas novas</b> o dia todo nos grupos",
  "fuso_agenda": "America/Manaus",
  "agenda": [
   {
    "hora": "10:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-20-achados.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-21-achados.jpg",
    "tipo": "achados"
   },
   {
    "hora": "12:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-20-p1.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-21-p1.jpg",
    "tipo": "produto 1"
   },
   {
    "hora": "15:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-20-p2.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-21-p2.jpg",
    "tipo": "produto 2"
   },
   {
    "hora": "18:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-20-p3.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-21-p3.jpg",
    "tipo": "produto 3"
   },
   {
    "hora": "20:30",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-20-p4.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-21-p4.jpg",
    "tipo": "produto 4"
   }
  ],
  "produtos": [
   {
    "n": 1,
-   "titulo": "Liquidificador Portátil Blender Elgin Daily Blend 350w 750ml 2 Copos Preto",
-   "preco": 144.99,
-   "preco_antigo": 499.97,
-   "desconto": 71,
+   "titulo": "Body Splash Natura Tododia Noz Pecã e Cacau Feminino 200ml",
+   "preco": 48.45,
+   "preco_antigo": 93.17,
+   "desconto": 48,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/1C6V9NziL",
-   "foto": "https://cf.shopee.com.br/file/br-11134207-820ma-msa71dbnloue12"
+   "link": "https://s.shopee.com.br/BVY5WfMAg",
+   "foto": "https://cf.shopee.com.br/file/sg-11134201-8258s-mr1n0pofx6v9fa"
   },
   {
    "n": 2,
-   "titulo": "Panela Elétrica de Arroz Itatiaia 8 Xícaras Inox 1,5L",
-   "preco": 159.49,
-   "preco_antigo": 498.41,
-   "desconto": 68,
+   "titulo": "Ração Golden Gatos Castrados 10kg Frango e Carne",
+   "preco": 139.9,
+   "preco_antigo": 218.59,
+   "desconto": 36,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/20xAspGrXO",
-   "foto": "https://cf.shopee.com.br/file/br-11134207-820lh-muxminkmohdvad"
+   "link": "https://s.shopee.com.br/9pg3bI9MuW",
+   "foto": "https://cf.shopee.com.br/file/sg-11134201-7rdxy-lyp80d99dpwa3a"
   },
   {
    "n": 3,
-   "titulo": "Kit Clareador Facial Completo Hidrabene – Sabonete, Sérum Multicorretivo, Hidratante e…",
-   "preco": 99.9,
-   "preco_antigo": 237.86,
-   "desconto": 58,
+   "titulo": "Corretivo Natura Una Cobertura Extrema 24h",
+   "preco": 40.26,
+   "preco_antigo": 62.91,
+   "desconto": 36,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/3B98GyGkeV",
-   "foto": "https://cf.shopee.com.br/file/br-11134207-820ly-mvp3gmshfgu9a2"
+   "link": "https://s.shopee.com.br/60TL2FO1yU",
+   "foto": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnkhyugbycqsec"
   },
   {
    "n": 4,
-   "titulo": "Sanduicheira Mondial S-20 Master Grill 750W Antiaderente",
-   "preco": 99.99,
-   "preco_antigo": 249.97,
-   "desconto": 60,
+   "titulo": "Colágeno Verisol Tri Plus Tipo 1 2 e 3 - 210g Bodyaction",
+   "preco": 62.0,
+   "preco_antigo": 98.41,
+   "desconto": 37,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/3g5OrtNiSi",
-   "foto": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcc84fsgtmnf93"
+   "link": "https://s.shopee.com.br/8KrFoXJTjp",
+   "foto": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi0466iqh7upac"
   }
  ]
 }
