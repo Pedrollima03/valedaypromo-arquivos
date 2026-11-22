@@ -1,75 +1,75 @@
 {
- "data": "2026-11-21",
- "data_texto": "21/11 às 07h",
+ "data": "2026-11-22",
+ "data_texto": "22/11 às 07h",
  "aviso": "🖤 BLACK FRIDAY: <b>ofertas novas</b> o dia todo nos grupos",
  "fuso_agenda": "America/Manaus",
  "agenda": [
   {
    "hora": "10:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-21-achados.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-22-achados.jpg",
    "tipo": "achados"
   },
   {
    "hora": "12:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-21-p1.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-22-p1.jpg",
    "tipo": "produto 1"
   },
   {
    "hora": "15:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-21-p2.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-22-p2.jpg",
    "tipo": "produto 2"
   },
   {
    "hora": "18:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-21-p3.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-22-p3.jpg",
    "tipo": "produto 3"
   },
   {
    "hora": "20:30",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-21-p4.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-22-p4.jpg",
    "tipo": "produto 4"
   }
  ],
  "produtos": [
   {
    "n": 1,
-   "titulo": "Body Splash Natura Tododia Noz Pecã e Cacau Feminino 200ml",
-   "preco": 48.45,
-   "preco_antigo": 93.17,
-   "desconto": 48,
+   "titulo": "Pré Treino Venom Underground Pre Workout 300g Dark Lab",
+   "preco": 89.99,
+   "preco_antigo": 160.7,
+   "desconto": 44,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/BVY5WfMAg",
-   "foto": "https://cf.shopee.com.br/file/sg-11134201-8258s-mr1n0pofx6v9fa"
+   "link": "https://s.shopee.com.br/7VIAPwqg1D",
+   "foto": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhjfdfjbc9vnba"
   },
   {
    "n": 2,
-   "titulo": "Ração Golden Gatos Castrados 10kg Frango e Carne",
-   "preco": 139.9,
-   "preco_antigo": 218.59,
-   "desconto": 36,
+   "titulo": "Smart TV 43\" Philco QLED HDR10 Roku TV P43KRB",
+   "preco": 1488.9,
+   "preco_antigo": 2222.24,
+   "desconto": 33,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/9pg3bI9MuW",
-   "foto": "https://cf.shopee.com.br/file/sg-11134201-7rdxy-lyp80d99dpwa3a"
+   "link": "https://s.shopee.com.br/W8Q55LJPU",
+   "foto": "https://cf.shopee.com.br/file/sg-11134201-825ad-mvp0wt63vjls71"
   },
   {
    "n": 3,
-   "titulo": "Corretivo Natura Una Cobertura Extrema 24h",
-   "preco": 40.26,
-   "preco_antigo": 62.91,
-   "desconto": 36,
+   "titulo": "Kit Invigo Enrich Shampoo 250ml, Cond 200ml e Másc 150ml - Wella",
+   "preco": 318.99,
+   "preco_antigo": 613.44,
+   "desconto": 48,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/60TL2FO1yU",
-   "foto": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnkhyugbycqsec"
+   "link": "https://s.shopee.com.br/114gg0Jkjg",
+   "foto": "https://cf.shopee.com.br/file/br-11134201-7r98o-lksff60ciqagdd"
   },
   {
    "n": 4,
-   "titulo": "Colágeno Verisol Tri Plus Tipo 1 2 e 3 - 210g Bodyaction",
-   "preco": 62.0,
-   "preco_antigo": 98.41,
-   "desconto": 37,
+   "titulo": "Kit S.O.S Hidratação Azeite de Oliva Shampoo e Condicionador Litrão Salon Line",
+   "preco": 49.25,
+   "preco_antigo": 73.51,
+   "desconto": 33,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/8KrFoXJTjp",
-   "foto": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi0466iqh7upac"
+   "link": "https://s.shopee.com.br/1gKNTELGpJ",
+   "foto": "https://cf.shopee.com.br/file/sg-11134201-825ap-muxl7oc8nytj62"
   }
  ]
 }
