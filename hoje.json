@@ -1,75 +1,75 @@
 {
- "data": "2026-11-22",
- "data_texto": "22/11 às 07h",
+ "data": "2026-11-23",
+ "data_texto": "23/11 às 07h",
  "aviso": "🖤 BLACK FRIDAY: <b>ofertas novas</b> o dia todo nos grupos",
  "fuso_agenda": "America/Manaus",
  "agenda": [
   {
    "hora": "10:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-22-achados.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-23-achados.jpg",
    "tipo": "achados"
   },
   {
    "hora": "12:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-22-p1.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-23-p1.jpg",
    "tipo": "produto 1"
   },
   {
    "hora": "15:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-22-p2.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-23-p2.jpg",
    "tipo": "produto 2"
   },
   {
    "hora": "18:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-22-p3.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-23-p3.jpg",
    "tipo": "produto 3"
   },
   {
    "hora": "20:30",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-22-p4.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-23-p4.jpg",
    "tipo": "produto 4"
   }
  ],
  "produtos": [
   {
    "n": 1,
-   "titulo": "Pré Treino Venom Underground Pre Workout 300g Dark Lab",
-   "preco": 89.99,
-   "preco_antigo": 160.7,
-   "desconto": 44,
+   "titulo": "Desodorante Corporal Natura Kaiak O2 Masculino 100 ml",
+   "preco": 36.42,
+   "preco_antigo": 56.91,
+   "desconto": 36,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/7VIAPwqg1D",
-   "foto": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhjfdfjbc9vnba"
+   "link": "https://s.shopee.com.br/9KjqCCbGhX",
+   "foto": "https://cf.shopee.com.br/file/sg-11134201-820m1-mnk66jbfb01vdf"
   },
   {
    "n": 2,
-   "titulo": "Smart TV 43\" Philco QLED HDR10 Roku TV P43KRB",
-   "preco": 1488.9,
-   "preco_antigo": 2222.24,
-   "desconto": 33,
-   "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/W8Q55LJPU",
-   "foto": "https://cf.shopee.com.br/file/sg-11134201-825ad-mvp0wt63vjls71"
+   "titulo": "Fritadeira Airfryer Digital Philips Walita NA230/00",
+   "preco": 380.0,
+   "preco_antigo": 950.0,
+   "desconto": 60,
+   "loja_nome": "Mercado Livre",
+   "link": "https://www.mercadolivre.com.br/p/MLB62495301?matt_word=pedrollima03&matt_tool=69701274",
+   "foto": "https://http2.mlstatic.com/D_NQ_NP_833981-MLA99378767609_112025-F.jpg"
   },
   {
    "n": 3,
-   "titulo": "Kit Invigo Enrich Shampoo 250ml, Cond 200ml e Másc 150ml - Wella",
-   "preco": 318.99,
-   "preco_antigo": 613.44,
-   "desconto": 48,
+   "titulo": "1 Pote Colageno + Ácido Hialuronico 216g Mega Oferta + Frete Gratis",
+   "preco": 32.0,
+   "preco_antigo": 84.21,
+   "desconto": 62,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/114gg0Jkjg",
-   "foto": "https://cf.shopee.com.br/file/br-11134201-7r98o-lksff60ciqagdd"
+   "link": "https://s.shopee.com.br/5AuHEY04EX",
+   "foto": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljo69sz83l0m12"
   },
   {
    "n": 4,
-   "titulo": "Kit S.O.S Hidratação Azeite de Oliva Shampoo e Condicionador Litrão Salon Line",
-   "preco": 49.25,
-   "preco_antigo": 73.51,
-   "desconto": 33,
+   "titulo": "Máscara Matizadora todecacho Chocolate 300g",
+   "preco": 49.2,
+   "preco_antigo": 60.0,
+   "desconto": 18,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/1gKNTELGpJ",
-   "foto": "https://cf.shopee.com.br/file/sg-11134201-825ap-muxl7oc8nytj62"
+   "link": "https://s.shopee.com.br/20xFSjC7gi",
+   "foto": "https://cf.shopee.com.br/file/sg-11134201-8259j-muxmju24ucqy75"
   }
  ]
 }
