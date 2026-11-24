@@ -1,75 +1,75 @@
 {
- "data": "2026-11-23",
- "data_texto": "23/11 às 07h",
+ "data": "2026-11-24",
+ "data_texto": "24/11 às 07h",
  "aviso": "🖤 BLACK FRIDAY: <b>ofertas novas</b> o dia todo nos grupos",
  "fuso_agenda": "America/Manaus",
  "agenda": [
   {
    "hora": "10:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-23-achados.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-24-achados.jpg",
    "tipo": "achados"
   },
   {
    "hora": "12:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-23-p1.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-24-p1.jpg",
    "tipo": "produto 1"
   },
   {
    "hora": "15:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-23-p2.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-24-p2.jpg",
    "tipo": "produto 2"
   },
   {
    "hora": "18:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-23-p3.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-24-p3.jpg",
    "tipo": "produto 3"
   },
   {
    "hora": "20:30",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-23-p4.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-24-p4.jpg",
    "tipo": "produto 4"
   }
  ],
  "produtos": [
   {
    "n": 1,
-   "titulo": "Desodorante Corporal Natura Kaiak O2 Masculino 100 ml",
-   "preco": 36.42,
-   "preco_antigo": 56.91,
-   "desconto": 36,
+   "titulo": "Monitor Gamer HQ 24\" Branco 1ms, 200Hz, IPS, AMD FreeSync, Full HD, HDMI, DP, Frameless…",
+   "preco": 694.57,
+   "preco_antigo": 1984.49,
+   "desconto": 65,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/9KjqCCbGhX",
-   "foto": "https://cf.shopee.com.br/file/sg-11134201-820m1-mnk66jbfb01vdf"
+   "link": "https://s.shopee.com.br/1CCfvthzg",
+   "foto": "https://cf.shopee.com.br/file/sg-11134201-8258c-mrkhpa1dtz4791"
   },
   {
    "n": 2,
-   "titulo": "Fritadeira Airfryer Digital Philips Walita NA230/00",
-   "preco": 380.0,
-   "preco_antigo": 950.0,
-   "desconto": 60,
-   "loja_nome": "Mercado Livre",
-   "link": "https://www.mercadolivre.com.br/p/MLB62495301?matt_word=pedrollima03&matt_tool=69701274",
-   "foto": "https://http2.mlstatic.com/D_NQ_NP_833981-MLA99378767609_112025-F.jpg"
+   "titulo": "Kit Wella Profissional Invigo Nutri-Enrich",
+   "preco": 399.99,
+   "preco_antigo": 952.36,
+   "desconto": 58,
+   "loja_nome": "Shopee",
+   "link": "https://s.shopee.com.br/70Lx0nX2yh",
+   "foto": "https://cf.shopee.com.br/file/sg-11134201-8258i-mg6htfwcrrij4f"
   },
   {
    "n": 3,
-   "titulo": "1 Pote Colageno + Ácido Hialuronico 216g Mega Oferta + Frete Gratis",
-   "preco": 32.0,
-   "preco_antigo": 84.21,
-   "desconto": 62,
+   "titulo": "Espelho Jateado Redondo Grande com 3 Cores LED Touch Lapidado Decoração de Parede 60X60 CM",
+   "preco": 163.0,
+   "preco_antigo": 379.07,
+   "desconto": 57,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/5AuHEY04EX",
-   "foto": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljo69sz83l0m12"
+   "link": "https://s.shopee.com.br/9V3HzONwUK",
+   "foto": "https://cf.shopee.com.br/file/br-11134207-820lf-mpco4oh2y87647"
   },
   {
    "n": 4,
-   "titulo": "Máscara Matizadora todecacho Chocolate 300g",
-   "preco": 49.2,
-   "preco_antigo": 60.0,
-   "desconto": 18,
+   "titulo": "Protetor Solar Facial Anasol FPS 70 Clareador Anti-Manchas Toque Seco 60g",
+   "preco": 44.9,
+   "preco_antigo": 102.05,
+   "desconto": 56,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/20xFSjC7gi",
-   "foto": "https://cf.shopee.com.br/file/sg-11134201-8259j-muxmju24ucqy75"
+   "link": "https://s.shopee.com.br/60TPoxffNR",
+   "foto": "https://cf.shopee.com.br/file/br-11134207-820m2-mt5m3hxuij9g5b"
   }
  ]
 }
