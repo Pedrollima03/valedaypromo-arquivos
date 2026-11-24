@@ -1,13 +1,7 @@
 {
  "data": "2026-11-24",
- "hora": "10:52",
+ "hora": "11:08",
  "cupons": [
-  {
-   "tipo": "Lojas Oficiais",
-   "valor": "20% de cashback",
-   "detalhe": "Até R$20",
-   "oficial": true
-  },
   {
    "tipo": "Moda Oficial",
    "valor": "R$20 OFF",
@@ -28,7 +22,6 @@
   }
  ],
  "frases": [
-  "20% de cashback até R$20 (Lojas Oficiais)",
   "R$20 OFF acima de R$199 (Moda Oficial)",
   "15% OFF acima de R$149 · até R$70 (Cupom Especial Pneus)",
   "R$60 OFF acima de R$599 (Automóveis e Motocicletas)"
