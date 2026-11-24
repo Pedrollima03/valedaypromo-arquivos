@@ -1,24 +1,12 @@
 {
- "data": "2026-11-19",
- "hora": "14:45",
+ "data": "2026-11-24",
+ "hora": "10:52",
  "cupons": [
   {
-   "tipo": "Todas as Lojas",
-   "valor": "R$30 OFF",
-   "detalhe": "Acima de R$299",
-   "oficial": false
-  },
-  {
-   "tipo": "Todas as Lojas",
-   "valor": "R$90 OFF",
-   "detalhe": "Acima de R$899",
-   "oficial": false
-  },
-  {
-   "tipo": "Cartinhas de Natal",
-   "valor": "50% OFF",
-   "detalhe": "Acima de R$10 · até R$50",
-   "oficial": false
+   "tipo": "Lojas Oficiais",
+   "valor": "20% de cashback",
+   "detalhe": "Até R$20",
+   "oficial": true
   },
   {
    "tipo": "Moda Oficial",
@@ -27,24 +15,22 @@
    "oficial": true
   },
   {
-   "tipo": "Automóveis e Motocicletas",
-   "valor": "R$60 OFF",
-   "detalhe": "Acima de R$599",
+   "tipo": "Cupom Especial Pneus",
+   "valor": "15% OFF",
+   "detalhe": "Acima de R$149 · até R$70",
    "oficial": false
   },
   {
    "tipo": "Automóveis e Motocicletas",
-   "valor": "R$90 OFF",
-   "detalhe": "Acima de R$799",
+   "valor": "R$60 OFF",
+   "detalhe": "Acima de R$599",
    "oficial": false
   }
  ],
  "frases": [
-  "R$30 OFF acima de R$299 (Todas as Lojas)",
-  "R$90 OFF acima de R$899 (Todas as Lojas)",
-  "50% OFF acima de R$10 · até R$50 (Cartinhas de Natal)",
+  "20% de cashback até R$20 (Lojas Oficiais)",
   "R$20 OFF acima de R$199 (Moda Oficial)",
-  "R$60 OFF acima de R$599 (Automóveis e Motocicletas)",
-  "R$90 OFF acima de R$799 (Automóveis e Motocicletas)"
+  "15% OFF acima de R$149 · até R$70 (Cupom Especial Pneus)",
+  "R$60 OFF acima de R$599 (Automóveis e Motocicletas)"
  ]
 }
