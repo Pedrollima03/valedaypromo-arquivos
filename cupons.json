@@ -1,11 +1,17 @@
 {
  "data": "2026-11-24",
- "hora": "11:08",
+ "hora": "11:09",
  "cupons": [
   {
    "tipo": "Moda Oficial",
    "valor": "R$20 OFF",
    "detalhe": "Acima de R$199",
+   "oficial": true
+  },
+  {
+   "tipo": "Lojas Oficiais",
+   "valor": "R$35 OFF",
+   "detalhe": "Acima de R$259",
    "oficial": true
   },
   {
@@ -23,6 +29,7 @@
  ],
  "frases": [
   "R$20 OFF acima de R$199 (Moda Oficial)",
+  "R$35 OFF acima de R$259 (Lojas Oficiais)",
   "15% OFF acima de R$149 · até R$70 (Cupom Especial Pneus)",
   "R$60 OFF acima de R$599 (Automóveis e Motocicletas)"
  ]
