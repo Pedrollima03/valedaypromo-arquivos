@@ -1,75 +1,75 @@
 {
- "data": "2026-11-24",
- "data_texto": "24/11 às 07h",
+ "data": "2026-11-25",
+ "data_texto": "25/11 às 07h",
  "aviso": "🖤 BLACK FRIDAY: <b>ofertas novas</b> o dia todo nos grupos",
  "fuso_agenda": "America/Manaus",
  "agenda": [
   {
    "hora": "10:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-24-achados.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-25-achados.jpg",
    "tipo": "achados"
   },
   {
    "hora": "12:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-24-p1.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-25-p1.jpg",
    "tipo": "produto 1"
   },
   {
    "hora": "15:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-24-p2.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-25-p2.jpg",
    "tipo": "produto 2"
   },
   {
    "hora": "18:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-24-p3.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-25-p3.jpg",
    "tipo": "produto 3"
   },
   {
    "hora": "20:30",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-24-p4.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-25-p4.jpg",
    "tipo": "produto 4"
   }
  ],
  "produtos": [
   {
    "n": 1,
-   "titulo": "Monitor Gamer HQ 24\" Branco 1ms, 200Hz, IPS, AMD FreeSync, Full HD, HDMI, DP, Frameless…",
-   "preco": 694.57,
-   "preco_antigo": 1984.49,
-   "desconto": 65,
-   "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/1CCfvthzg",
-   "foto": "https://cf.shopee.com.br/file/sg-11134201-8258c-mrkhpa1dtz4791"
+   "titulo": "Jogo Soquete Longo Sextavado Impacto 1/2 8 A 32 Mm 15pcs Giratas",
+   "preco": 21.0,
+   "preco_antigo": 100.3,
+   "desconto": 79,
+   "loja_nome": "Mercado Livre",
+   "link": "https://www.mercadolivre.com.br/jogo-soquete-longo-sextavado-impacto-12-8-a-32-mm-15pcs-giratas/p/MLB70654875?matt_word=valedaygeral&matt_tool=69701274",
+   "foto": "https://http2.mlstatic.com/D_Q_NP_2X_717549-MLA111513052672_062026-AB.jpg"
   },
   {
    "n": 2,
-   "titulo": "Kit Wella Profissional Invigo Nutri-Enrich",
-   "preco": 399.99,
-   "preco_antigo": 952.36,
-   "desconto": 58,
+   "titulo": "Ar Condicionado de Janela Midea 7.500 BTUs Frio Mecânico Branco",
+   "preco": 1738.04,
+   "preco_antigo": 2996.62,
+   "desconto": 42,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/70Lx0nX2yh",
-   "foto": "https://cf.shopee.com.br/file/sg-11134201-8258i-mg6htfwcrrij4f"
+   "link": "https://s.shopee.com.br/9072zNPsgr",
+   "foto": "https://cf.shopee.com.br/file/sg-11134201-8258u-mra6grm2jlza92"
   },
   {
    "n": 3,
-   "titulo": "Espelho Jateado Redondo Grande com 3 Cores LED Touch Lapidado Decoração de Parede 60X60 CM",
-   "preco": 163.0,
-   "preco_antigo": 379.07,
-   "desconto": 57,
+   "titulo": "Romantic Crown Mochila Feminina Notebook 15.6 de Viagem Avião Compartimento Sapatos Bolso…",
+   "preco": 99.99,
+   "preco_antigo": 303.0,
+   "desconto": 67,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/9V3HzONwUK",
-   "foto": "https://cf.shopee.com.br/file/br-11134207-820lf-mpco4oh2y87647"
+   "link": "https://s.shopee.com.br/8KrMC9WooC",
+   "foto": "https://cf.shopee.com.br/file/br-11134207-820m5-mt9av7axq80179"
   },
   {
    "n": 4,
-   "titulo": "Protetor Solar Facial Anasol FPS 70 Clareador Anti-Manchas Toque Seco 60g",
-   "preco": 44.9,
-   "preco_antigo": 102.05,
-   "desconto": 56,
+   "titulo": "Conjunto 8pçs Talheres de Silicone p/ Bebê c/ Ventosa, Colher, Garfo, Canudo e Babador…",
+   "preco": 39.11,
+   "preco_antigo": 100.28,
+   "desconto": 61,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/60TPoxffNR",
-   "foto": "https://cf.shopee.com.br/file/br-11134207-820m2-mt5m3hxuij9g5b"
+   "link": "https://s.shopee.com.br/50auE1j61N",
+   "foto": "https://cf.shopee.com.br/file/sg-11134201-8258g-mvr81kw3csuaf2"
   }
  ]
 }
