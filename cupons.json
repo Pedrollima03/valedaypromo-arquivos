@@ -1,7 +1,13 @@
 {
- "data": "2026-11-24",
- "hora": "11:09",
+ "data": "2026-11-25",
+ "hora": "09:44",
  "cupons": [
+  {
+   "tipo": "Cartinhas de Natal",
+   "valor": "50% OFF",
+   "detalhe": "Acima de R$0 · até R$50",
+   "oficial": false
+  },
   {
    "tipo": "Moda Oficial",
    "valor": "R$20 OFF",
@@ -9,15 +15,9 @@
    "oficial": true
   },
   {
-   "tipo": "Lojas Oficiais",
-   "valor": "R$35 OFF",
-   "detalhe": "Acima de R$259",
-   "oficial": true
-  },
-  {
-   "tipo": "Cupom Especial Pneus",
-   "valor": "15% OFF",
-   "detalhe": "Acima de R$149 · até R$70",
+   "tipo": "Tecnologia",
+   "valor": "R$50 OFF",
+   "detalhe": "Acima de R$450",
    "oficial": false
   },
   {
@@ -25,12 +25,40 @@
    "valor": "R$60 OFF",
    "detalhe": "Acima de R$599",
    "oficial": false
+  },
+  {
+   "tipo": "Gift Card Playstation",
+   "valor": "6% OFF",
+   "detalhe": "Acima de R$450 Sem gasto máximo",
+   "oficial": false
+  },
+  {
+   "tipo": "Gift Card Uber",
+   "valor": "10% OFF",
+   "detalhe": "Acima de R$350 Sem gasto máximo",
+   "oficial": false
+  },
+  {
+   "tipo": "Gift Card Nintendo",
+   "valor": "10% OFF",
+   "detalhe": "Acima de R$300 Sem gasto máximo",
+   "oficial": false
+  },
+  {
+   "tipo": "Gift Card Outback",
+   "valor": "20% OFF",
+   "detalhe": "Acima de R$200 Sem gasto máximo",
+   "oficial": false
   }
  ],
  "frases": [
+  "50% OFF acima de R$0 · até R$50 (Cartinhas de Natal)",
   "R$20 OFF acima de R$199 (Moda Oficial)",
-  "R$35 OFF acima de R$259 (Lojas Oficiais)",
-  "15% OFF acima de R$149 · até R$70 (Cupom Especial Pneus)",
-  "R$60 OFF acima de R$599 (Automóveis e Motocicletas)"
+  "R$50 OFF acima de R$450 (Tecnologia)",
+  "R$60 OFF acima de R$599 (Automóveis e Motocicletas)",
+  "6% OFF acima de R$450 Sem gasto máximo (Gift Card Playstation)",
+  "10% OFF acima de R$350 Sem gasto máximo (Gift Card Uber)",
+  "10% OFF acima de R$300 Sem gasto máximo (Gift Card Nintendo)",
+  "20% OFF acima de R$200 Sem gasto máximo (Gift Card Outback)"
  ]
 }
