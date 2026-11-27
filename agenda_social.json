@@ -2,6 +2,20 @@
  "dia": "2026-11-27",
  "itens": [
   {
+   "hora": "09:00",
+   "tipo": "story",
+   "urls": [
+    "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/c/2026-11-27/story-0900.jpg"
+   ]
+  },
+  {
+   "hora": "11:00",
+   "tipo": "story",
+   "urls": [
+    "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/c/2026-11-27/story-1100.jpg"
+   ]
+  },
+  {
    "hora": "12:00",
    "tipo": "carrossel",
    "urls": [
@@ -15,20 +29,6 @@
     "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/c/2026-11-27/slide-08.jpg"
    ],
    "legenda": "Banheiro pequeno também pode ter cara de hotel, e esses 6 achados mostram como 🛁\n\n🤍 Jogo de toalhas jacquard, macio e grossinho pra sair do banho abraçada\n✨ Espelho orgânico retangular, aquele formato que deixa a parede moderna na hora\n💛 Kit lavabo mármore dourado, pia organizada e com cara de casa de revista\n🌿 Cesto de roupa em bambu, esconde a bagunça e ainda decora\n🤎 Espelho adnet com couro, o detalhe que todo mundo repara\n🪞 Kit banheiro cerâmica, delicado e combina com tudo\n\nEscolhi peças da Shopee pra quem quer um banheiro decorado e organizado sem quebrar parede nenhuma.\n\nOs outros achados de casa ficam no nosso grupo Vale Day Promo Casa, é só procurar no perfil @valedaypromo 🏠\n\nPosso ganhar uma comissão pelos achados daqui, sem custo nenhum pra você 💜\n#inspiracao #banheirodecorado #banheiropequeno #decoracaodebanheiro"
-  },
-  {
-   "hora": "09:00",
-   "tipo": "story",
-   "urls": [
-    "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/c/2026-11-27/story-0900.jpg"
-   ]
-  },
-  {
-   "hora": "11:00",
-   "tipo": "story",
-   "urls": [
-    "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/c/2026-11-27/story-1100.jpg"
-   ]
   },
   {
    "hora": "12:15",
@@ -52,10 +52,24 @@
    ]
   },
   {
+   "hora": "20:15",
+   "tipo": "story",
+   "urls": [
+    "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/c/2026-11-27/story-grupo-2015.jpg"
+   ]
+  },
+  {
    "hora": "20:30",
    "tipo": "story",
    "urls": [
     "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/c/2026-11-27/story-2030.jpg"
+   ]
+  },
+  {
+   "hora": "21:30",
+   "tipo": "story",
+   "urls": [
+    "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/c/2026-11-27/story-grupo-2130.jpg"
    ]
   }
  ]
