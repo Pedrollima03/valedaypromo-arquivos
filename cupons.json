@@ -1,5 +1,5 @@
 {
- "data": "2026-11-26",
+ "data": "2026-11-27",
  "hora": "09:44",
  "cupons": [
   {
@@ -7,9 +7,16 @@
    "valor": "R$20 OFF",
    "detalhe": "Acima de R$199",
    "oficial": true
+  },
+  {
+   "tipo": "Moda",
+   "valor": "R$25 OFF",
+   "detalhe": "Acima de R$299 · Vendedores nacionais",
+   "oficial": false
   }
  ],
  "frases": [
-  "R$20 OFF acima de R$199 (Moda Oficial)"
+  "R$20 OFF acima de R$199 (Moda Oficial)",
+  "R$25 OFF acima de R$299 · Vendedores nacionais (Moda)"
  ]
 }
