@@ -1,75 +1,75 @@
 {
- "data": "2026-11-26",
- "data_texto": "26/11 às 07h",
+ "data": "2026-11-27",
+ "data_texto": "27/11 às 07h",
  "aviso": "🖤 BLACK FRIDAY: <b>ofertas novas</b> o dia todo nos grupos",
  "fuso_agenda": "America/Manaus",
  "agenda": [
   {
    "hora": "10:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-26-achados.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-27-achados.jpg",
    "tipo": "achados"
   },
   {
    "hora": "12:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-26-p1.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-27-p1.jpg",
    "tipo": "produto 1"
   },
   {
    "hora": "15:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-26-p2.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-27-p2.jpg",
    "tipo": "produto 2"
   },
   {
    "hora": "18:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-26-p3.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-27-p3.jpg",
    "tipo": "produto 3"
   },
   {
    "hora": "20:30",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-26-p4.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-27-p4.jpg",
    "tipo": "produto 4"
   }
  ],
  "produtos": [
   {
    "n": 1,
-   "titulo": "Kit Whey Core 70% de Proteína Concentrada -900g + Pré-Treino Evoluition 300g + Creatina…",
-   "preco": 109.9,
-   "preco_antigo": 219.8,
-   "desconto": 50,
+   "titulo": "Creme Hidratante Loreal Paris Revitalift Hialurônico Noite",
+   "preco": 41.9,
+   "preco_antigo": 74.82,
+   "desconto": 44,
    "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/qlMrHCfp9",
-   "foto": "https://cf.shopee.com.br/file/br-11134207-820lb-mr8txu9fasxw63"
+   "link": "https://s.shopee.com.br/9V3Mm5xEmT",
+   "foto": "https://cf.shopee.com.br/file/br-11134207-820lg-mpjt6fdqfb4336"
   },
   {
    "n": 2,
-   "titulo": "Kit Linha Completa Explosão de Azeite de Oliva + Umectação + Óleo Abacate bn.Cachos",
-   "preco": 158.38,
-   "preco_antigo": 229.54,
-   "desconto": 31,
-   "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/1W13eV9efl",
-   "foto": "https://cf.shopee.com.br/file/sg-11134201-82632-mm7wyee6fbwi17"
+   "titulo": "Grade Cama Proteção Dobrável 93cm Para Idosos Bebê Infantil Branco Apoio Grande De…",
+   "preco": 146.27,
+   "preco_antigo": 359.0,
+   "desconto": 59,
+   "loja_nome": "Mercado Livre",
+   "link": "https://www.mercadolivre.com.br/grade-cama-protecao-dobravel-93cm-para-idosos-bebe-infantil-branco-apoio-grande-de-cama-para-seguranca-protege-crianca-e-idoso-com-dificuldade-de-locomocao-contra-queda/p/MLB68004911?matt_word=valedaymamaes&matt_tool=69701274",
+   "foto": "https://http2.mlstatic.com/D_Q_NP_2X_950662-MLA109568191616_042026-AB.jpg"
   },
   {
    "n": 3,
-   "titulo": "Vitamina D3 2000UI + K2 MK-7 100mcg, Formulado com azeite de oliva, Bigens (60 cápsulas)",
-   "preco": 49.0,
-   "preco_antigo": 70.0,
-   "desconto": 30,
-   "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/7KyqbDrqaE",
-   "foto": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1zqt3eudoprd4"
+   "titulo": "Fritadeira Sem Óleo Ofrt520 4,6 Litros Oster",
+   "preco": 244.79,
+   "preco_antigo": 739.0,
+   "desconto": 67,
+   "loja_nome": "Mercado Livre",
+   "link": "https://www.mercadolivre.com.br/fritadeira-sem-oleo-ofrt520-46-litros-oster/p/MLB29573223?matt_word=valedaycasa&matt_tool=69701274",
+   "foto": "https://http2.mlstatic.com/D_Q_NP_2X_863721-MLA99980676163_112025-E.jpg"
   },
   {
    "n": 4,
-   "titulo": "Notebook Lenovo IdeaPad Slim 3 AMD Ryzen 5 7535HS, 8GB, SSD 512GB, 15.3\" WUXGA 1920x1200…",
-   "preco": 3161.99,
-   "preco_antigo": 4391.65,
-   "desconto": 28,
-   "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/40iOd69HSN",
-   "foto": "https://cf.shopee.com.br/file/sg-11134201-8258x-mu98c23dumtga9"
+   "titulo": "Luminária De Mesa Genérica Compacta Para Escritório",
+   "preco": 69.99,
+   "preco_antigo": 200.0,
+   "desconto": 65,
+   "loja_nome": "Mercado Livre",
+   "link": "https://www.mercadolivre.com.br/luminaria-de-mesa-generica-compacta-para-escritorio/up/MLBU4040073917?matt_word=valedaycasa&matt_tool=69701274",
+   "foto": "https://http2.mlstatic.com/D_Q_NP_2X_663395-MLB117798917918_102026-E--luminaria-de-mesa-generica-compacta-para-escritorio.jpg"
   }
  ]
 }
