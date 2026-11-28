@@ -1,75 +1,75 @@
 {
- "data": "2026-11-27",
- "data_texto": "27/11 às 07h",
+ "data": "2026-11-28",
+ "data_texto": "28/11 às 07h",
  "aviso": "🖤 BLACK FRIDAY: <b>ofertas novas</b> o dia todo nos grupos",
  "fuso_agenda": "America/Manaus",
  "agenda": [
   {
    "hora": "10:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-27-achados.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-28-achados.jpg",
    "tipo": "achados"
   },
   {
    "hora": "12:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-27-p1.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-28-p1.jpg",
    "tipo": "produto 1"
   },
   {
    "hora": "15:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-27-p2.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-28-p2.jpg",
    "tipo": "produto 2"
   },
   {
    "hora": "18:00",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-27-p3.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-28-p3.jpg",
    "tipo": "produto 3"
   },
   {
    "hora": "20:30",
-   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-27-p4.jpg",
+   "imagem": "https://raw.githubusercontent.com/Pedrollima03/valedaypromo-arquivos/main/s/2026-11-28-p4.jpg",
    "tipo": "produto 4"
   }
  ],
  "produtos": [
   {
    "n": 1,
-   "titulo": "Creme Hidratante Loreal Paris Revitalift Hialurônico Noite",
-   "preco": 41.9,
-   "preco_antigo": 74.82,
-   "desconto": 44,
-   "loja_nome": "Shopee",
-   "link": "https://s.shopee.com.br/9V3Mm5xEmT",
-   "foto": "https://cf.shopee.com.br/file/br-11134207-820lg-mpjt6fdqfb4336"
+   "titulo": "Par De Caixa De Som Passiva Frahm - Hsc 6 Outdoor 140w Preta",
+   "preco": 581.0,
+   "preco_antigo": 1579.0,
+   "desconto": 63,
+   "loja_nome": "Mercado Livre",
+   "link": "https://www.mercadolivre.com.br/par-de-caixa-de-som-passiva-frahm-hsc-6-outdoor-140w-preta/p/MLB19937809?matt_word=valedaycasa&matt_tool=69701274",
+   "foto": "https://http2.mlstatic.com/D_Q_NP_2X_978965-MLA99495597300_112025-AB.jpg"
   },
   {
    "n": 2,
-   "titulo": "Grade Cama Proteção Dobrável 93cm Para Idosos Bebê Infantil Branco Apoio Grande De…",
-   "preco": 146.27,
-   "preco_antigo": 359.0,
-   "desconto": 59,
+   "titulo": "Caixa De Som Basike Ba-RAD207 Edição Atualizada 120W Rádio FM Bluetooth 5.3 TWS RGB Bass…",
+   "preco": 396.67,
+   "preco_antigo": 709.4,
+   "desconto": 44,
    "loja_nome": "Mercado Livre",
-   "link": "https://www.mercadolivre.com.br/grade-cama-protecao-dobravel-93cm-para-idosos-bebe-infantil-branco-apoio-grande-de-cama-para-seguranca-protege-crianca-e-idoso-com-dificuldade-de-locomocao-contra-queda/p/MLB68004911?matt_word=valedaymamaes&matt_tool=69701274",
-   "foto": "https://http2.mlstatic.com/D_Q_NP_2X_950662-MLA109568191616_042026-AB.jpg"
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-basike-ba-rad207-edicao-atualizada-120w-radio-fm-bluetooth-53-tws-rgb-bass-boost-9000mah-preto/p/MLB79165813?matt_word=valedaycasa&matt_tool=69701274",
+   "foto": "https://http2.mlstatic.com/D_Q_NP_2X_703734-MLA115996470292_092026-AB.jpg"
   },
   {
    "n": 3,
-   "titulo": "Fritadeira Sem Óleo Ofrt520 4,6 Litros Oster",
-   "preco": 244.79,
-   "preco_antigo": 739.0,
-   "desconto": 67,
+   "titulo": "Escova Secadora Britânia Bivolt 1300w Soft Bec07r Original",
+   "preco": 81.7,
+   "preco_antigo": 139.9,
+   "desconto": 42,
    "loja_nome": "Mercado Livre",
-   "link": "https://www.mercadolivre.com.br/fritadeira-sem-oleo-ofrt520-46-litros-oster/p/MLB29573223?matt_word=valedaycasa&matt_tool=69701274",
-   "foto": "https://http2.mlstatic.com/D_Q_NP_2X_863721-MLA99980676163_112025-E.jpg"
+   "link": "https://www.mercadolivre.com.br/escova-secadora-britania-bivolt-1300w-soft-bec07r-original/p/MLB19694427?matt_word=valedaycasa&matt_tool=69701274",
+   "foto": "https://http2.mlstatic.com/D_Q_NP_2X_878925-MLA121532297759_112026-AB.jpg"
   },
   {
    "n": 4,
-   "titulo": "Luminária De Mesa Genérica Compacta Para Escritório",
-   "preco": 69.99,
-   "preco_antigo": 200.0,
-   "desconto": 65,
+   "titulo": "Notebook Samsung Galaxy Book Go, Windows 11 Home, Snapdragon® 7c, 4gb, 128gb Ufs, 14''…",
+   "preco": 1799.0,
+   "preco_antigo": 3099.0,
+   "desconto": 42,
    "loja_nome": "Mercado Livre",
-   "link": "https://www.mercadolivre.com.br/luminaria-de-mesa-generica-compacta-para-escritorio/up/MLBU4040073917?matt_word=valedaycasa&matt_tool=69701274",
-   "foto": "https://http2.mlstatic.com/D_Q_NP_2X_663395-MLB117798917918_102026-E--luminaria-de-mesa-generica-compacta-para-escritorio.jpg"
+   "link": "https://www.mercadolivre.com.br/notebook-samsung-galaxy-book-go-windows-11-home-snapdragon-7c-4gb-128gb-ufs-14-full-hd-led-138kg-com-copilot-integrado/p/MLB51558073?matt_word=valedaycasa&matt_tool=69701274",
+   "foto": "https://http2.mlstatic.com/D_Q_NP_2X_600475-MLA113038325206_072026-AB.jpg"
   }
  ]
 }
